@@ -7,7 +7,8 @@ This is a **Next.js** project built with **React, TypeScript, and Clerk authenti
 - ✅ **API Integration**
 - ✅ **Responsive UI with Tailwind CSS**
 
-  
+  <img width="947" alt="415603914-eafba393-669f-41e1-b155-01dd9fd3f267" src="https://github.com/user-attachments/assets/a6d94b93-edad-4251-ab16-ec0633b49083" />
+
 
 
  
